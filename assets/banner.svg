@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="365" viewBox="0 0 1200 365" role="img" aria-labelledby="title description">
+  <title id="title">Assis Neto — Desenvolvedor Full Stack</title>
+  <desc id="description">Banner minimalista em grafite, com ondas azuis amplas e animadas na parte superior, inspiradas nos efeitos Blue Wave do projeto MUSEU-DO-MAR.</desc>
+  <rect width="1200" height="365" fill="#0d1117"/>
+
+  <!-- Ondas grandes na borda superior; cada padrão se repete horizontalmente após 1200 px. -->
+  <g fill="#28628c" opacity="0.40">
+    <g class="wave wave-back">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="28s" repeatCount="indefinite"/>
+      <path d="M0 129 C200 67 400 67 600 129 S1000 191 1200 129 S1600 67 1800 129 S2200 191 2400 129 V0 H0 Z"/>
+    </g>
+  </g>
+  <g fill="#2d7299" opacity="0.48">
+    <g class="wave wave-middle">
+      <animateTransform attributeName="transform" type="translate" from="-1200 0" to="0 0" dur="20s" repeatCount="indefinite"/>
+      <path d="M0 134 C180 190 420 190 600 134 S1020 78 1200 134 S1620 190 1800 134 S2220 78 2400 134 V0 H0 Z"/>
+    </g>
+  </g>
+  <g fill="#427eaf" opacity="0.47">
+    <g class="wave wave-front">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="36s" repeatCount="indefinite"/>
+      <path d="M0 92 C210 136 390 136 600 92 S990 48 1200 92 S1590 136 1800 92 S2190 48 2400 92 V0 H0 Z"/>
+    </g>
+  </g>
+
+  <!-- Identidade propositalmente simples, com margem de respiro sob as ondas. -->
+  <rect x="72" y="188" width="29" height="3" rx="1.5" fill="#8b85cc"/>
+  <text x="70" y="249" fill="#e6edf3" font-family="Arial, Helvetica, sans-serif" font-size="61" font-weight="700" letter-spacing="-2">Assis Neto</text>
+  <text x="73" y="286" fill="#a6adb8" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400">Desenvolvedor Full Stack</text>
+  <path d="M72 316 H1128" stroke="#30363d" stroke-width="1"/>
+  <text x="73" y="342" fill="#8c939f" font-family="Arial, Helvetica, sans-serif" font-size="15">@acisneto</text>
+  <text x="1128" y="342" fill="#8c939f" font-family="Arial, Helvetica, sans-serif" text-anchor="end" font-size="15">Piauí, Brasil</text>
+</svg>
