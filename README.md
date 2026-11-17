@@ -16,7 +16,7 @@
 
 Sou **Francisco de Assis (Assis Neto)**, desenvolvedor **Full Stack** e estudante de **Ciência da Computação**, no Piauí.
 
-Trabalho com desenvolvimento de aplicações web, sistemas sob medida, integrações e automação. Tenho interesse especial por produtos que transformam processos complicados em ferramentas simples de usar — da estrutura dos dados à interface final.
+Trabalho com desenvolvimento de aplicações web, sistemas sob medida, integrações e automação. Tenho interesse especial por produtos que transformam processos complicados em ferramentas simples de usar, da estrutura dos dados à interface final.
 
 Minha trajetória também passa pelo **design de interfaces**, o que influencia a forma como penso em navegação, acessibilidade, organização da informação e experiência de uso.
 
@@ -127,10 +127,6 @@ Estudo **Ciência da Computação** e gosto de explorar o que conecta engenharia
   </picture>
 </p>
 -->
-
-## Contato
-
-Se quiser conversar sobre desenvolvimento web, sistemas, interfaces ou colaborações, o melhor caminho é pelo **[LinkedIn](https://www.linkedin.com/in/francisco-de-assis-a6597b265/)**. Meu trabalho público está disponível nos **[repositórios do GitHub](https://github.com/acisneto?tab=repositories)**.
 
 <div align="center">
   <sub>Desenvolvimento, design e curiosidade técnica.</sub>
