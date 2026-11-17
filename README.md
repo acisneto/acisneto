@@ -39,12 +39,23 @@ Além da experiência em análise de sistemas, atuo no desenvolvimento de aplica
 
 | Projeto | Descrição | Área |
 | :--- | :--- | :--- |
+| **[Bonfire Library](https://bonfireproject.online/)** | Biblioteca pessoal de filmes e séries com catálogo, perfis e player web integrado. | Full Stack · Mídia · UI/UX |
 | **[Buscador-PI](https://buscadorpi.vercel.app/)** | Plataforma de consulta a unidades e serviços públicos do Piauí, organizada por município e categoria. | Dados públicos · Full Stack |
 | **Litoral Hub** | Projeto acadêmico para reunir informações úteis a turistas, pescadores e praticantes de esportes no litoral piauiense. | APIs · Produto · UX |
 | **[Museu do Mar de Parnaíba](https://museudomarphb.com.br/)** | Site institucional com informações sobre história, acervo, visitação e programação. | Web · Conteúdo · UI/UX |
 | **[ADESG-SP](https://adesgsp.org.br/)** | Site institucional com estrutura para cursos, eventos, notícias e informações da organização. | Desenvolvimento Web · UI/UX |
 
 Também atuo em **sistemas de gestão, organização de atendimentos, dashboards operacionais e integrações entre serviços**. Parte desses trabalhos pertence a clientes ou está em desenvolvimento, por isso não possui código público.
+
+### Bonfire Library
+
+Desenvolvo a **[Bonfire Library](https://bonfireproject.online/)**, uma aplicação Full Stack para organizar bibliotecas pessoais de filmes e séries e reproduzir mídia no navegador. O projeto reúne catálogo, player e perfis em uma experiência inspirada em plataformas de streaming.
+
+- **Catálogo e personalização:** busca e metadados do TMDB, organização por temporadas e episódios, coleções de filmes e progresso de reprodução individual por perfil.
+- **Player e processamento de mídia:** integração com WebTorrent, transmissão HLS com FFmpeg e HLS.js, seleção de faixas de áudio e suporte a legendas embutidas e ao OpenSubtitles.
+- **Interface e acessibilidade:** layout responsivo, versões em português e inglês e efeitos de *liquid glass* que respeitam as preferências de movimento e transparência do dispositivo.
+
+**Tecnologias:** `JavaScript` · `Node.js` · `Express` · `WebTorrent` · `FFmpeg` · `HLS.js` · `Tailwind CSS` · `daisyUI` · `APIs REST`
 
 ### Código público
 
