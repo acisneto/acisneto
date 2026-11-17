@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/Piau%C3%AD-Brasil-171827?style=flat-square&labelColor=28628c" alt="Piauí, Brasil" />
 </div>
 
+
 Sou **Francisco de Assis (Assis Neto)**, desenvolvedor **Full Stack** e estudante de **Ciência da Computação**, no Piauí.
 
 Trabalho com desenvolvimento de aplicações web, sistemas sob medida, integrações e automação. Tenho interesse especial por produtos que transformam processos complicados em ferramentas simples de usar, da estrutura dos dados à interface final.
@@ -29,8 +30,6 @@ Minha trajetória também passa pelo **design de interfaces**, o que influencia 
 - **Sistemas de saúde:** atuação com as plataformas **TASY** e **SOLUS** no contexto de operadoras.
 - **Infraestrutura e ferramentas técnicas:** uso de **SQL, Postman, Docker e Kubernetes** no trabalho com sistemas e operações.
 - **Suporte técnico operacional:** investigação de problemas e colaboração com equipes e usuários para manter os fluxos de trabalho funcionando.
-
-**Tecnologias utilizadas:** `SQL` · `Postman` · `TASY` · `SOLUS` · `Docker` · `Kubernetes`
 
 ### Desenvolvimento independente
 
