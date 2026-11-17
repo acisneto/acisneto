@@ -12,8 +12,6 @@
   <img src="https://img.shields.io/badge/Piau%C3%AD-Brasil-171827?style=flat-square&labelColor=28628c" alt="Piauí, Brasil" />
 </div>
 
-## Olá, eu sou o Assis.
-
 Sou **Francisco de Assis (Assis Neto)**, desenvolvedor **Full Stack** e estudante de **Ciência da Computação**, no Piauí.
 
 Trabalho com desenvolvimento de aplicações web, sistemas sob medida, integrações e automação. Tenho interesse especial por produtos que transformam processos complicados em ferramentas simples de usar, da estrutura dos dados à interface final.
