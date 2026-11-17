@@ -96,11 +96,6 @@ Também atuo em **sistemas de gestão, organização de atendimentos, dashboards
 
 Estudo **Ciência da Computação** e gosto de explorar o que conecta engenharia de software e problemas reais. Tenho interesse em arquitetura de aplicações, processamento de dados, recursos de IA e tecnologias voltadas à informação pública.
 
-## Atividade no GitHub
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=acisneto&bg_color=0d1117&color=aac8de&line=427eaf&point=ffffff&area=true&area_color=28628c&hide_border=true" alt="Gráfico de atividade do GitHub de Assis Neto" width="100%" />
-</div>
 
 <!--
   OPCIONAL: Snake das contribuições.
